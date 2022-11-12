@@ -1,0 +1,15 @@
+D:\Bridgelabs\DataStructureDemo\LinkedListStack\obj\Debug\net6.0\LinkedListStack.csproj.AssemblyReference.cache
+D:\Bridgelabs\DataStructureDemo\LinkedListStack\obj\Debug\net6.0\LinkedListStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bridgelabs\DataStructureDemo\LinkedListStack\obj\Debug\net6.0\LinkedListStack.AssemblyInfoInputs.cache
+D:\Bridgelabs\DataStructureDemo\LinkedListStack\obj\Debug\net6.0\LinkedListStack.AssemblyInfo.cs
+D:\Bridgelabs\DataStructureDemo\LinkedListStack\obj\Debug\net6.0\LinkedListStack.csproj.CoreCompileInputs.cache
+D:\Bridgelabs\DataStructureDemo\LinkedListStack\bin\Debug\net6.0\LinkedListStack.exe
+D:\Bridgelabs\DataStructureDemo\LinkedListStack\bin\Debug\net6.0\LinkedListStack.deps.json
+D:\Bridgelabs\DataStructureDemo\LinkedListStack\bin\Debug\net6.0\LinkedListStack.runtimeconfig.json
+D:\Bridgelabs\DataStructureDemo\LinkedListStack\bin\Debug\net6.0\LinkedListStack.dll
+D:\Bridgelabs\DataStructureDemo\LinkedListStack\bin\Debug\net6.0\LinkedListStack.pdb
+D:\Bridgelabs\DataStructureDemo\LinkedListStack\obj\Debug\net6.0\LinkedListStack.dll
+D:\Bridgelabs\DataStructureDemo\LinkedListStack\obj\Debug\net6.0\refint\LinkedListStack.dll
+D:\Bridgelabs\DataStructureDemo\LinkedListStack\obj\Debug\net6.0\LinkedListStack.pdb
+D:\Bridgelabs\DataStructureDemo\LinkedListStack\obj\Debug\net6.0\LinkedListStack.genruntimeconfig.cache
+D:\Bridgelabs\DataStructureDemo\LinkedListStack\obj\Debug\net6.0\ref\LinkedListStack.dll

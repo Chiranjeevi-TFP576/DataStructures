@@ -1,0 +1,15 @@
+D:\Bridgelabs\DataStructureDemo\DataStructureDemo\obj\Debug\net6.0\DataStructureDemo.csproj.AssemblyReference.cache
+D:\Bridgelabs\DataStructureDemo\DataStructureDemo\obj\Debug\net6.0\DataStructureDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bridgelabs\DataStructureDemo\DataStructureDemo\obj\Debug\net6.0\DataStructureDemo.AssemblyInfoInputs.cache
+D:\Bridgelabs\DataStructureDemo\DataStructureDemo\obj\Debug\net6.0\DataStructureDemo.AssemblyInfo.cs
+D:\Bridgelabs\DataStructureDemo\DataStructureDemo\obj\Debug\net6.0\DataStructureDemo.csproj.CoreCompileInputs.cache
+D:\Bridgelabs\DataStructureDemo\DataStructureDemo\bin\Debug\net6.0\DataStructureDemo.exe
+D:\Bridgelabs\DataStructureDemo\DataStructureDemo\bin\Debug\net6.0\DataStructureDemo.deps.json
+D:\Bridgelabs\DataStructureDemo\DataStructureDemo\bin\Debug\net6.0\DataStructureDemo.runtimeconfig.json
+D:\Bridgelabs\DataStructureDemo\DataStructureDemo\bin\Debug\net6.0\DataStructureDemo.dll
+D:\Bridgelabs\DataStructureDemo\DataStructureDemo\bin\Debug\net6.0\DataStructureDemo.pdb
+D:\Bridgelabs\DataStructureDemo\DataStructureDemo\obj\Debug\net6.0\DataStructureDemo.dll
+D:\Bridgelabs\DataStructureDemo\DataStructureDemo\obj\Debug\net6.0\refint\DataStructureDemo.dll
+D:\Bridgelabs\DataStructureDemo\DataStructureDemo\obj\Debug\net6.0\DataStructureDemo.pdb
+D:\Bridgelabs\DataStructureDemo\DataStructureDemo\obj\Debug\net6.0\DataStructureDemo.genruntimeconfig.cache
+D:\Bridgelabs\DataStructureDemo\DataStructureDemo\obj\Debug\net6.0\ref\DataStructureDemo.dll
